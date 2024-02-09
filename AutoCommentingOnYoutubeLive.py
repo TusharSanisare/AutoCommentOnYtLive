@@ -48,7 +48,7 @@ browser.get('https://youtube.com')
 
 # time.sleep(5)  
 # search_box = browser.find_element('css selector','ytd-searchbox')  
-# search_box.send_keys("ye rashi")  
+# search_box.send_keys("ye ")  
 # search_box.send_keys(Keys.ENTER)  
 
 
