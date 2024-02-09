@@ -25,7 +25,7 @@
 # browser.get('https://youtube.com') # complete address of site in string and get() will do the rest , apna dimag mat lagao ree
 # time.sleep(5) # aree baba code 5 sec rokega taki site complete load hojaye then next line of code work kare warna erroor aaa skta he bacha
 # search_box = browser.find_element('css selector','ytd-searchbox') # ytd-searchbox is class name for search input tag on YT
-# search_box.send_keys("ye") # what ever string you pass goes in search box
+# search_box.send_keys("ye bataa") # what ever string you pass goes in search box
 # search_box.send_keys(Keys.ENTER) # ab ye to khud samaja bsdk
 
 
@@ -48,7 +48,7 @@ browser.get('https://youtube.com')
 
 # time.sleep(5)  
 # search_box = browser.find_element('css selector','ytd-searchbox')  
-# search_box.send_keys("ye ")  
+# search_box.send_keys("ye bataa")  
 # search_box.send_keys(Keys.ENTER)  
 
 
