@@ -58,6 +58,12 @@ browser.get('https://youtube.com')
 
 
 
+#code was deleted
+
+
+
+
+
 
 # just to hold browser window
 input("Enter to close the browser...") 
